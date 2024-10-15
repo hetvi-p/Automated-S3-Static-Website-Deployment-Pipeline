@@ -1,10 +1,4 @@
 # Automated-S3-Static-Website-Deployment-Pipeline
-This project automates the deployment of static websites hosted on Amazon S3 whenever code is committed to a specific branch in an AWS CodeCommit repository. The approach provides a central deployment pipeline that can be easily extended to include features such as code reviews, builds, and tests.
-
-Here's a ready-to-copy version of the README for your **S3 Static Website Automated Deployments** project:
-
-```markdown
-# S3 Static Website Automated Deployments
 
 ## Overview
 
@@ -94,4 +88,3 @@ This project provides an efficient way to automate static website deployments on
 For any questions or contributions, feel free to reach out!
 ```
 
-You can copy and paste this directly into your README file. Let me know if you need any further modifications!
